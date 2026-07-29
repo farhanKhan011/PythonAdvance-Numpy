@@ -119,9 +119,10 @@ Change data type from float to integer by using 'i' as parameter value:
 '''
 Change data type from integer to boolean:
 '''
-import numpy as np
-arr = np.array([1, 0, 3])
-boolArr = arr.astype(bool)
-print(boolArr)
-print(boolArr.dtype)
+# import numpy as np
+# arr = np.array([1, 0, 3])
+# boolArr = arr.astype(bool)
+# print(boolArr)
+# print(boolArr.dtype) 
+
 
