@@ -96,28 +96,15 @@ Enumerate on following 1D arrays elements:
 # arr = np.array([1, 2, 3])
 # for idx, x in np.ndenumerate(arr):
 #   print(idx, x)
+
+
 # Enumerate on following 2D array's elements:
 # import numpy as np
 # arr = np.array([[1, 2, 3, 4], [5, 6, 7, 8]])
-# for idx, x in np.ndenumerate(arr):
-#     print(idx,x)
+# for i, v in np.ndenumerate(arr):
+#   print(i,v) #index(i) and value(v) 
 
-
+   
 
 # Array Iterating Completed
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
