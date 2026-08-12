@@ -9,4 +9,4 @@ pyvenv.cfg
 # Ignore Python cache
 __pycache__/
 *.pyc
-* tempCodeRunnerFile.py
+*tempCodeRunnerFile.py
